@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "hireko-recruiter": {
+      "command": "node",
+      "args": [
+        "${CURSOR_PLUGIN_ROOT}/bundle.mjs",
+        "serve"
+      ],
+      "env": {
+        "PLUGIN_NAME": "hireko-recruiter"
+      }
+    }
+  }
+}

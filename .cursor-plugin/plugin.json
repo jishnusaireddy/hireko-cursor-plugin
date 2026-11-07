@@ -1,0 +1,22 @@
+{
+  "name": "hireko-recruiter",
+  "displayName": "Hireko AI Recruiter",
+  "version": "1.0.0",
+  "description": "Hireko AI Recruiter empowers talent teams with automated candidate analytics, AI-powered interview link generation, and semantic candidate search scorecards.",
+  "author": {
+    "name": "Hireko",
+    "url": "https://hireko.ai"
+  },
+  "homepage": "https://hireko.ai",
+  "repository": "https://github.com/jishnusaireddy/hireko-cursor-plugin",
+  "license": "MIT",
+  "keywords": [
+    "hireko",
+    "recruiting",
+    "candidate",
+    "hiring",
+    "interview",
+    "scorecard"
+  ],
+  "logo": "assets/logo.png"
+}
